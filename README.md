@@ -79,10 +79,10 @@ values ('Starter Pack', 100, 'USD', 'prod_xxx', true);
 3. 회원가입시 email 발송
 ![Screenshot 2026-02-10 at 14 44 02](https://github.com/user-attachments/assets/3df25a9f-e39d-4e52-8785-4ce7c3736491)
 
-4. 상품 리스트
+4. 상품 리스트                                    
 ![Screenshot 2026-02-10 at 14 52 45](https://github.com/user-attachments/assets/767b02d8-4d18-43b0-be1a-7a7e3ac5b951)
 
-6. 결제 화면면
+6. 결제 화면                          
 ![Screenshot 2026-02-10 at 14 43 29](https://github.com/user-attachments/assets/37225117-bf2b-4107-a40a-dfef7baa0949)
 
 ## 테스트
