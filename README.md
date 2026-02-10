@@ -72,13 +72,17 @@ values ('Starter Pack', 100, 'USD', 'prod_xxx', true);
 ## 화면 및 프로세스
 1. 회원가입 및 로그인
 ![Screenshot 2026-02-10 at 14 50 32](https://github.com/user-attachments/assets/24f543f3-497a-4909-9a70-6fcb5d41499b)
+
 2. supabase 에 저장된 회원정보
 ![유저 저장](https://github.com/user-attachments/assets/1572c575-a887-4456-b242-9bf87cbaa978)
+
 3. 회원가입시 email 발송
 ![Screenshot 2026-02-10 at 14 44 02](https://github.com/user-attachments/assets/3df25a9f-e39d-4e52-8785-4ce7c3736491)
+
 4. 상품 리스트
 ![Screenshot 2026-02-10 at 14 52 45](https://github.com/user-attachments/assets/767b02d8-4d18-43b0-be1a-7a7e3ac5b951)
-5. 결제 화면면
+
+6. 결제 화면면
 ![Screenshot 2026-02-10 at 14 43 29](https://github.com/user-attachments/assets/37225117-bf2b-4107-a40a-dfef7baa0949)
 
 ## 테스트
